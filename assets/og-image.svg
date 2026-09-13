@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="36" fill="#07111F"/>
+  <circle cx="240" cy="320" r="220" fill="url(#paint0_radial_1_2)" fill-opacity="0.5"/>
+  <circle cx="992" cy="266" r="180" fill="url(#paint1_radial_1_2)" fill-opacity="0.45"/>
+  <rect x="132" y="118" width="936" height="394" rx="34" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="176" y="162" width="242" height="242" rx="28" fill="url(#paint2_linear_1_2)"/>
+  <path d="M255 201H356C378.091 201 396 218.909 396 241V333C396 355.091 378.091 373 356 373H255C232.909 373 215 355.091 215 333V241C215 218.909 232.909 201 255 201Z" fill="#EAF4FF" fill-opacity="0.12" stroke="#EAF4FF" stroke-opacity="0.22"/>
+  <path d="M255 213H356C374.778 213 390 228.222 390 247V332C390 350.778 374.778 366 356 366H255C236.222 366 221 350.778 221 332V247C221 228.222 236.222 213 255 213Z" fill="url(#paint3_linear_1_2)"/>
+  <circle cx="273" cy="280" r="22" fill="#EAF4FF" fill-opacity="0.9"/>
+  <path d="M273 311V345" stroke="#EAF4FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M344 263L314 293L287 266L251 302" stroke="#EAF4FF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="478" y="276" fill="#EDF4FF" font-family="Arial, sans-serif" font-size="88" font-weight="700">Safdar Ali</text>
+  <text x="478" y="338" fill="#B7C5DC" font-family="Arial, sans-serif" font-size="38" font-weight="500">AI Engineer | Machine Learning Engineer | AI &amp; Automation</text>
+  <text x="478" y="404" fill="#5EEAD4" font-family="Arial, sans-serif" font-size="28" font-weight="600">Building intelligent AI solutions that turn ideas into real-world applications.</text>
+  <defs>
+    <radialGradient id="paint0_radial_1_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 320) rotate(90) scale(220)">
+      <stop stop-color="#6EA8FE" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#6EA8FE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial_1_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(992 266) rotate(90) scale(180)">
+      <stop stop-color="#8C7DFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#8C7DFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="paint2_linear_1_2" x1="176" y1="162" x2="418" y2="404" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EA8FE"/>
+      <stop offset="1" stop-color="#8C7DFF"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_1_2" x1="221" y1="213" x2="390" y2="366" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF4FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#EAF4FF" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,45 @@
+Safdar Ali
+AI Engineer | Machine Learning Engineer | AI & Automation
+
+Professional Summary:
+AI graduate focused on Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, RAG, and AI Automation. Interested in building practical, production-ready AI solutions that turn ideas into real-world applications.
+
+Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- Scikit-learn
+- XGBoost
+- LLMs
+- RAG
+- Prompt Engineering
+- AI Agents
+- AI Automation
+- OpenCV
+- Computer Vision
+- Pandas
+- NumPy
+- SQL
+- Streamlit
+- Git & GitHub
+
+Projects:
+- Autonomous Lead Enrichment & Sales Outreach Agent
+- AI-Based Credit Scoring System
+- AI-Based Sign Language Recognition
+- AI-Powered Crop Disease Detection
+- RAG-Based Knowledge Chatbot
+- Fake News Detection System
+
+Experience:
+AI/ML Internship – CodeAlpha
+Focused on AI & Automation, RAG, Computer Vision, Machine Learning, AI model development, and collaboration with senior engineers.
+
+Education:
+Bachelor of Hons in BS Artificial Intelligence
+The Islamia University of Bahawalpur
+
+Contact:
+Email: hello@safdarali.dev
+LinkedIn: https://www.linkedin.com
+GitHub: https://github.com/SafdarAli

@@ -1,0 +1,69 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8AD35D"/>
+      <stop offset="0.42" stop-color="#5EA649"/>
+      <stop offset="1" stop-color="#325B2A"/>
+    </linearGradient>
+    <linearGradient id="leafShade" x1="210" y1="120" x2="980" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C5F78E"/>
+      <stop offset="1" stop-color="#5DA63D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 340) rotate(90) scale(360 620)">
+      <stop stop-color="#EAFCD2" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#EAFCD2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect width="1200" height="720" fill="url(#glow)"/>
+
+  <path d="M0 490C187 385 295 325 420 292C636 242 812 271 1041 430C1116 484 1171 534 1200 616V720H0V490Z" fill="#3E7D2F" fill-opacity="0.55"/>
+
+  <g opacity="0.98">
+    <path d="M168 560C271 470 344 420 440 338C564 232 692 171 853 168C914 171 979 183 1042 205C933 236 834 266 732 286C602 311 481 323 365 361C288 387 221 440 168 560Z" fill="url(#leafShade)"/>
+    <path d="M168 560C271 470 344 420 440 338C564 232 692 171 853 168C914 171 979 183 1042 205C933 236 834 266 732 286C602 311 481 323 365 361C288 387 221 440 168 560Z" stroke="#EAFCD2" stroke-opacity="0.28" stroke-width="6"/>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M208 518C306 452 365 406 435 356C520 295 628 258 760 253C830 250 925 265 1016 318C949 340 882 353 800 362C671 376 540 383 436 421C344 454 273 489 208 518Z" fill="#D5F1A6" fill-opacity="0.35"/>
+  </g>
+
+  <g opacity="0.95">
+    <path d="M542 331C706 318 833 304 941 286" stroke="#EAFCD2" stroke-opacity="0.75" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 22"/>
+    <path d="M360 471C449 435 530 397 613 344C691 295 801 224 925 207" stroke="#EAFCD2" stroke-opacity="0.75" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 18"/>
+  </g>
+
+  <g opacity="0.92">
+    <circle cx="469" cy="389" r="7" fill="#FF793D"/>
+    <circle cx="500" cy="401" r="7" fill="#FF793D"/>
+    <circle cx="530" cy="382" r="8" fill="#FF793D"/>
+    <circle cx="565" cy="403" r="6" fill="#FF793D"/>
+    <circle cx="600" cy="372" r="7" fill="#FF793D"/>
+    <circle cx="640" cy="390" r="7" fill="#FF793D"/>
+    <circle cx="684" cy="356" r="8" fill="#FF793D"/>
+    <circle cx="731" cy="392" r="8" fill="#FF793D"/>
+    <circle cx="775" cy="366" r="7" fill="#FF793D"/>
+    <circle cx="825" cy="330" r="8" fill="#FF793D"/>
+    <circle cx="872" cy="356" r="7" fill="#FF793D"/>
+    <circle cx="919" cy="317" r="7" fill="#FF793D"/>
+    <circle cx="960" cy="345" r="7" fill="#FF793D"/>
+  </g>
+
+  <g>
+    <rect x="160" y="338" width="240" height="132" rx="18" fill="#0C4B3B" fill-opacity="0.25" stroke="#F4FFF0" stroke-opacity="0.5"/>
+    <rect x="176" y="360" width="206" height="82" rx="14" fill="#F0FFF0" fill-opacity="0.08"/>
+    <text x="186" y="394" fill="#F5FFF2" font-family="Arial, sans-serif" font-size="24" font-weight="700">Detected:</text>
+    <text x="186" y="425" fill="#F4F4F4" font-family="Arial, sans-serif" font-size="34" font-weight="700">Leaf Rust</text>
+    <text x="186" y="454" fill="#D8FFE0" font-family="Arial, sans-serif" font-size="20" font-weight="600">(89% Confidence)</text>
+  </g>
+
+  <g>
+    <rect x="791" y="164" width="245" height="156" rx="18" fill="#F4FFF1" fill-opacity="0.18" stroke="#F4FFF1" stroke-opacity="0.38"/>
+    <path d="M814 245H1019" stroke="#F4FFF1" stroke-opacity="0.6" stroke-width="3" stroke-dasharray="10 10"/>
+    <path d="M814 279H1019" stroke="#F4FFF1" stroke-opacity="0.25" stroke-width="3" stroke-dasharray="10 10"/>
+    <circle cx="858" cy="186" r="8" fill="#F4FFF1" fill-opacity="0.8"/>
+    <circle cx="914" cy="203" r="8" fill="#F4FFF1" fill-opacity="0.8"/>
+    <circle cx="970" cy="190" r="8" fill="#F4FFF1" fill-opacity="0.8"/>
+  </g>
+</svg>

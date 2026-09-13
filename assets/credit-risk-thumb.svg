@@ -1,0 +1,76 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CBDDEB"/>
+      <stop offset="0.45" stop-color="#A0B7C8"/>
+      <stop offset="1" stop-color="#5E7288"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D5E4F3" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#B7D0E4" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#7FE7C6"/>
+      <stop offset="1" stop-color="#82DCE8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="720" fill="url(#panel)"/>
+
+  <g opacity="0.7">
+    <path d="M54 648C219 612 328 572 436 530C546 487 666 451 815 446C956 440 1050 479 1160 531V720H54V648Z" fill="#8CC4D1" fill-opacity="0.2"/>
+  </g>
+
+  <g opacity="0.7">
+    <rect x="76" y="96" width="430" height="210" rx="20" fill="#DDEAF4" fill-opacity="0.22" stroke="#F5FBFF" stroke-opacity="0.45"/>
+    <rect x="90" y="116" width="400" height="68" rx="14" fill="#EDF8FF" fill-opacity="0.18"/>
+    <rect x="140" y="140" width="74" height="18" rx="9" fill="#73E1CC"/>
+    <rect x="230" y="140" width="78" height="18" rx="9" fill="#8AE3D5"/>
+    <rect x="322" y="140" width="96" height="18" rx="9" fill="#73E1CC"/>
+    <rect x="430" y="140" width="38" height="18" rx="9" fill="#8AE3D5"/>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M110 496C244 480 328 456 458 370C548 306 653 250 776 243C873 237 951 260 1038 316C945 324 876 342 782 376C684 411 594 451 503 492C408 533 287 550 110 496Z" fill="#D4EEF8" fill-opacity="0.18"/>
+  </g>
+
+  <g>
+    <path d="M502 468C612 424 672 393 746 362C826 329 913 300 1013 246" stroke="url(#line)" stroke-width="8" stroke-linecap="round" stroke-dasharray="8 18"/>
+    <path d="M519 463C624 421 694 397 766 369C844 340 926 306 1016 261" stroke="#F1FBFF" stroke-opacity="0.7" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 18"/>
+  </g>
+
+  <g>
+    <path d="M358 595C429 545 484 500 533 468C576 440 624 418 694 406C776 392 871 407 968 474C922 510 873 532 812 551C723 579 627 600 528 612C462 619 404 613 358 595Z" fill="#CFE9F5" fill-opacity="0.22"/>
+  </g>
+
+  <g>
+    <rect x="66" y="378" width="290" height="126" rx="18" fill="#0D1F2B" fill-opacity="0.28" stroke="#E8F9FF" stroke-opacity="0.55"/>
+    <text x="96" y="420" fill="#F2FCFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">Stable &amp; Profitable</text>
+    <text x="96" y="456" fill="#7EE7C6" font-family="Arial, sans-serif" font-size="24" font-weight="700">(100% Secure)</text>
+  </g>
+
+  <g>
+    <circle cx="967" cy="500" r="80" fill="#D6F7E7" fill-opacity="0.22" stroke="#EAFCF4" stroke-opacity="0.58"/>
+    <circle cx="967" cy="500" r="56" fill="#D6F7E7" fill-opacity="0.18" stroke="#EAFCF4" stroke-opacity="0.48"/>
+    <path d="M942 500L961 520L994 486" stroke="#F1FFF8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <circle cx="1083" cy="502" r="80" fill="#FF6C6C" fill-opacity="0.16" stroke="#FFE8E8" stroke-opacity="0.65"/>
+    <path d="M1046 465L1121 540" stroke="#FFF3F3" stroke-width="10" stroke-linecap="round"/>
+    <path d="M1121 465L1046 540" stroke="#FFF3F3" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <circle cx="728" cy="516" r="18" fill="#EAFCF4" fill-opacity="0.8"/>
+    <circle cx="728" cy="516" r="34" stroke="#EAFCF4" stroke-opacity="0.30" stroke-width="2"/>
+    <circle cx="820" cy="420" r="16" fill="#98EAD7" fill-opacity="0.85"/>
+    <circle cx="820" cy="420" r="32" stroke="#98EAD7" stroke-opacity="0.30" stroke-width="2"/>
+  </g>
+
+  <g opacity="0.85">
+    <path d="M680 392L789 347" stroke="#B7E8DE" stroke-width="5" stroke-linecap="round" stroke-dasharray="6 16"/>
+    <path d="M738 431L855 370" stroke="#B7E8DE" stroke-width="5" stroke-linecap="round" stroke-dasharray="6 16"/>
+  </g>
+</svg>
